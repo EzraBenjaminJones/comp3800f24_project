@@ -72,7 +72,6 @@ Here are some key visualizations from the project:
 ## How to Run
 - Clone the repository: git clone https://github.com/EzraBenjaminJones/comp3800f24_project.git
 - Install dependencies: pip install -r requirements.txt
-Open the notebook: jupyter notebook comp3800f24_project.ipynb
-Must uncompress data.zip to a folder named data.
-Must run if nltk.stopwords is not already installed (currently commented out):
-nltk.download('stopwords')
+- Open the notebook: jupyter notebook comp3800f24_project.ipynb
+- Must uncompress data.zip to a folder named data.
+- Must run if nltk.stopwords is not already installed (currently commented out): nltk.download('stopwords')
